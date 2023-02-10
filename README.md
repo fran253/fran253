@@ -5,8 +5,8 @@
 
 ####Mi nombre es Fran y estoy aprendiendo a usar GitHub 🧑‍💻
 
-"🤔 Busco consejos y ayuda para mejorar mis conocimientos sobre GitHub.
-"📫 No uso demasiadas redes sociales, pero puedes contactar conmigo llamando al 667891810
-"😄 Genero: Hombre.
-"⚡ Estudio Sistemas microinformaticos y redes.
+"🤔 Busco consejos y ayuda para mejorar mis conocimientos sobre GitHub."
+"📫 No uso demasiadas redes sociales, pero puedes contactar conmigo llamando al 667891810"
+"😄 Genero: Hombre."
+"⚡ Estudio Sistemas microinformaticos y redes."
 -->
