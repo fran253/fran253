@@ -1,12 +1,14 @@
-### Hello there 👋
+Hello 👋
+I'm Fran, a passionate tech enthusiast exploring the world of web development and IT systems.
+
+📚 I hold a vocational degree in Microcomputer Systems and Networks, and I'm currently pursuing a higher degree in Web Applications.
+------------------------
+🌐 I'm especially interested in web development and love working on various web-related projects.
+------------------------
+💻 I'm always open to learning, especially when it comes to expanding my knowledge on GitHub and improving my coding skills.
+------------------------
+
+📫 Feel free to reach out if you'd like to connect or collaborate on a project.
 
 
-**fran253/fran253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#### Mi nombre es Fran y estoy aprendiendo a usar GitHub 🧑‍💻
-
-* 🤔 Busco consejos y ayuda para mejorar mis conocimientos sobre GitHub.
-* 📫 No uso demasiadas redes sociales, pero puedes contactar conmigo llamando al 667891810
-* 😄 Genero: Hombre.
-* ⚡ Estudio Sistemas microinformaticos y redes.
-
+Thank you for stopping by my profile! 😄
